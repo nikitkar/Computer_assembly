@@ -1,6 +1,6 @@
-# Computer_assembly
+# Computer assembly
 
 #### В работе было использовано: 
 * FlexBox;
 * Grid;
-* Анимация появления блоков.
+* Секундомер.
